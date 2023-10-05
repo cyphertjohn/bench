@@ -20,11 +20,22 @@
        <includesfile>../tasks/reach_safety_loops_nla.set</includesfile>
       <propertyfile>../tasks/properties/unreach-call.prp</propertyfile>
     </tasks>
+    <tasks name="NLA-scaling">
+       <includesfile>../tasks/reach_safety_loops_nla_scaling.set</includesfile>
+      <propertyfile>../tasks/properties/unreach-call.prp</propertyfile>
+    </tasks>
+    <tasks name="NLA-noinv">
+       <includesfile>../tasks/reach_safety_loops_nlanoinv.set</includesfile>
+      <propertyfile>../tasks/properties/unreach-call.prp</propertyfile>
+    </tasks>
     <tasks name="loops">
       <includesfile>../tasks/reach_safety_loops.set</includesfile>
       <propertyfile>../tasks/properties/unreach-call.prp</propertyfile>
     </tasks>
-    
+    <tasks name="loops-validate">
+      <includesfile>../tasks/loops_validate.set</includesfile>
+      <propertyfile>../tasks/properties/unreach-call.prp</propertyfile>
+    </tasks>        
   </rundefinition>
 
 </benchmark>
