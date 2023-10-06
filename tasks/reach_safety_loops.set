@@ -174,5 +174,3 @@ loop-zilu/benchmark37_conjunctive.yml
 loop-zilu/benchmark43_conjunctive.yml
 loop-zilu/benchmark51_polynomial.yml
 loop-zilu/benchmark52_polynomial.yml
-verifythis/elimination_max.yml
-verifythis/lcp.yml
