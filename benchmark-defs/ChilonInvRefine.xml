@@ -6,6 +6,7 @@
   <rundefinition>
     <option name="-cra" />
     <option name="-lirr" />
+    <option name="-monotone" />
     <option name="-cra-refine" />
 
     <tasks name="C4B">
