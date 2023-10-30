@@ -5,6 +5,8 @@
            timelimit="15min">
   <rundefinition>
     <option name="-cra" />
+    <option name="-no-fgb" />
+    <option name="-monotone" />
     <option name="-lirr" />
     <option name="-cra-refine" />
 

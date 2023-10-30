@@ -5,6 +5,7 @@
            timelimit="15min">
   <rundefinition>
     <option name="-cra" />
+    <option name="-no-fgb" />
     <option name="-cra-split-loops" />
     <tasks name="C4B">
       <include>../tasks/C4B/*.yml</include>
